@@ -43,7 +43,10 @@ depression = [
   "I wanted to find one law to cover all of living. I found fear",
   "Wasn't it been a long time since you had a flying dream?",
   "I felt shame - I see this clearly, now - at the instinctive recognition in myself of an awful enfeebling fatalism, a sense that the great outcomes were but randomly connected to our endeavors, that life was beyond mending, that love was loss, that nothing worth saying was sayable, that dullness was general, that disintegration was irresistible.",
-  "Is it Friday?"
+  "Is it Friday?",
+  "The only thing more depressing is a work in IT department",
+  "My office space in Heroku is as good as my test coverage",
+  "I once had a dream... but now when I think about it I think it was just stack overflow"
 ]
 
 Url   = require "url"
