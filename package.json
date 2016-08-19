@@ -1,14 +1,14 @@
 {
-  "name": "hubot-sentimental",
-  "version": "1.0.8",
-  "author": "Jason Solis",
+  "name": "hubot-sentimental-plus",
+  "version": "1.0.0",
+  "author": "Jason Solis, Mateusz Kopij <sagasu>",
   "keywords": [
     "github",
     "hubot",
     "sentimental",
     "adapter"
   ],
-  "description": "A hubot adapter for tracking happiness levels of users via the Sentimental database",
+  "description": "A hubot adapter for tracking happiness levels of users via the Sentimental database. Plus version adds additional text messages than just 'stay positive', because people hate this one",
   "licenses": [
     {
       "type": "MIT",

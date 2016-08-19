@@ -7,6 +7,7 @@ node package to score how positive or negative the spoken words being used in yo
 As users speak we will analyze how positive or negative your words are using Sentimental
 and keep a running average. You can then ask how everyone is doing by using one of the following commands.
 
+plus version adds more messages than just 'stay positive'
 ```
 Hubot check on jsolis
 ```
@@ -23,9 +24,9 @@ See [`src/sentimental.coffee`](src/sentimental.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-sentimental --save`
+`npm install hubot-sentimental-plus --save`
 
-Then add **hubot-sentimental** to your `external-scripts.json`:
+Then add **hubot-sentimental-plus** to your `external-scripts.json`:
 
 ```json
 ["hubot-sentimental"]
